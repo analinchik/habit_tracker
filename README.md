@@ -1,5 +1,5 @@
 # Habit_tracker
-Habit tracker for cycling using Pixela API
+Habit tracker for cycling using Pixela API (https://pixe.la/)
 ## Overview
 This script allows to create a heatmap that helps you track your habits eg how long you've cycled for each day. 
 
