@@ -10,5 +10,5 @@ This script allows to create a heatmap that helps you track your habits eg how l
 Purpose: Adds a pixel to represent your progress for the current day.
 
 Parameters:
-    `quantity`: The amount of cycling activity (e.g., kilometers or minutes).\n
+    `quantity`: The amount of cycling activity (e.g., kilometers or minutes).
     `graph_id`: The ID of the Pixela graph where the data will be logged.
