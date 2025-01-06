@@ -1,3 +1,8 @@
+# Telegram bot for habit tracking 
+
+## Commands
+`/add_pixel`
+
 # Habit_tracker
 Habit tracker for cycling using Pixela API (https://pixe.la/)
 ## Overview
